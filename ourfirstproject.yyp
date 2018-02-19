@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "047f07ab-1a93-49d7-8cc7-922f8d8fbee8",
+            "Value": {
+                "id": "262a35ef-0b0d-4b34-b6d7-21e0d9cfbc4e",
+                "resourcePath": "sprites\\Paddle\\Paddle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b526f05-7287-4262-be2f-d5f174c84594",
             "Value": {
                 "id": "9646b820-baf4-44e8-b81f-69d232d74403",
@@ -188,6 +196,14 @@
                 "id": "c748b34a-8806-4390-bb4c-5b6554c35c92",
                 "resourcePath": "views\\e884cba4-4a66-4fca-a317-938b36e30737.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eed4b578-912b-4a2f-8498-762402b22bc2",
+            "Value": {
+                "id": "7970df17-63ee-49c2-8654-7aee9f78ecb5",
+                "resourcePath": "sprites\\ball\\ball.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
