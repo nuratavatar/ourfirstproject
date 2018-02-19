@@ -47,6 +47,22 @@
             }
         },
         {
+            "Key": "3bf99cd2-c490-4954-93bf-d0b227f34413",
+            "Value": {
+                "id": "aa89e88e-ea6c-45d6-b6dd-2ece7cf916f8",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "41e38cbf-fbef-4ede-9052-16099a209f81",
+            "Value": {
+                "id": "0e92095e-2cb0-4e49-af9d-e15337764dce",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "49d67574-a49e-4ab6-8c74-ceb802070512",
             "Value": {
                 "id": "e0840a5f-ed96-4f36-868d-76d071fcddb7",
