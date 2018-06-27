@@ -5,16 +5,6 @@
     "name": "obj_ball",
     "eventList": [
         {
-            "id": "6fc7ff97-7a0e-42ba-aaf8-849adc66faae",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "09754cd8-ef86-4edd-b76d-992815c117ce"
-        },
-        {
             "id": "b8f14c66-b9b2-4ead-8240-c168f0cefe00",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -62,6 +52,16 @@
             "collisionObjectId": "2c086273-88ac-4560-a5e8-05bcd2a51f09",
             "enumb": 0,
             "eventtype": 4,
+            "m_owner": "09754cd8-ef86-4edd-b76d-992815c117ce"
+        },
+        {
+            "id": "5ae5562e-3293-4d37-a969-1b541b8cc288",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
             "m_owner": "09754cd8-ef86-4edd-b76d-992815c117ce"
         }
     ],
