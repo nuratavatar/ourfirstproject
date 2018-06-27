@@ -8,9 +8,11 @@ direction = choose(135,45,225,315);
 /// @DnDVersion : 1
 /// @DnDHash : 48F14959
 <<<<<<< HEAD
+<<<<<<< HEAD
 /// @DnDArgument : "speed" "8"
 speed = 8;
-=======
-/// @DnDArgument : "speed" "15"
-speed = 15;
 >>>>>>> master
+=======
+/// @DnDArgument : "speed" "12"
+speed = 12;
+>>>>>>> parent of 586a247... speed 8
